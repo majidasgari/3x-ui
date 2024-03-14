@@ -16,8 +16,7 @@
       "protocol": "socks",
       "settings": {
         "auth": "noauth",
-        "udp": true,
-        "userLevel": 8
+        "udp": true
       },
       "sniffing": {
         "destOverride": [
@@ -33,7 +32,6 @@
       "port": 10809,
       "protocol": "http",
       "settings": {
-        "userLevel": 8
       },
       "tag": "http"
     }
